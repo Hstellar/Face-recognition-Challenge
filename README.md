@@ -1,5 +1,5 @@
 # Face-recognition-Challenge
-Face recognition is implemented using SIFT features from facial images and then classifying by Support vector machine.
+Face recognition is implemented using SIFT features from facial images and then classifying by Support vector machine.\n
 Step1. Read Dataset for training images.
 Step2. Here vector named labels is made which contains all label name for images given in dataset.(Dataset used was of our academic class).
 Step3. Calculate descriptor i.e feature matrix for all images, flatten them and store them in matrix named initial whose size is (no of sample)x(keypoints*128).
